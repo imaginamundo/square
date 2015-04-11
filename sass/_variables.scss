@@ -1,0 +1,21 @@
+// Grid
+$container-max-width: 960px;
+
+// Typography
+$font-family: 'Lora', serif;
+$title-font-family: 'Lora', serif;
+
+$base-font-size: 16px;
+$base-line-height: 1.62em;
+
+$text-color: #333;
+$link-color: #0077aa;
+$link-hover-color: lighten($link-color, 8);
+
+// Square
+$square-background: tomato;
+$square-box-shadow: inset 0 0 0 1px #fff;
+
+// Plugins
+$fa-font-path: "../../font";
+$fa-css-prefix: icon;

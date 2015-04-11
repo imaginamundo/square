@@ -1,0 +1,42 @@
+// Clearfix
+.clearfix {
+    *zoom: 1;
+    &:before,
+    &:after {
+        content: " ";
+        display: table;
+    }
+    &:after {
+        clear: both;
+    }
+}
+
+// Images
+.image-responsive {
+    max-width: 100%;
+}
+.image-center {
+    display: block;
+    margin: 0 auto;
+}
+
+// Typography
+.text-right {
+    text-align: right;
+}
+.text-left {
+    text-align: left;
+}
+.text-center {
+    text-align: center;
+}
+.circle-number {
+    display: inline-block;
+    margin: 5px;
+    width: 40px;
+    height: 40px;
+    background: #fff;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 40px;
+}

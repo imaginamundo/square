@@ -1,0 +1,28 @@
+.btn {
+    display: inline-block;
+    padding: .5em;
+    margin-bottom: 3px;
+    background: #333;
+    color: #fff;
+    border-radius: 5px;
+    text-decoration: none;
+    white-space: nowrap;
+    touch-action: manipulation;
+    transition: .2s all ease-in-out;
+    &:hover {
+        background: darken(#333, 5);
+        color: #fff;
+    }
+}
+.btn-primary {
+    background: #4A90E2;
+    &:hover {
+        background: darken(#4A90E2, 5);
+    }
+}
+.btn-danger {
+    background: tomato;
+    &:hover {
+        background: darken(tomato, 5);
+    }
+}

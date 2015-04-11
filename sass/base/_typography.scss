@@ -1,0 +1,46 @@
+@import url(http://fonts.googleapis.com/css?family=Lora:400,700);
+
+body {
+	font-size: $base-font-size;
+	line-height: $base-line-height;
+	font-family: $font-family;
+	color: $text-color;
+}
+a {
+	color: $link-color;
+	&:hover {
+		color: $link-hover-color;
+	}
+}
+hr {
+	border: 0;
+	height: 1px;
+	background: #E5E5E5;
+}
+h1, h2, h3 {
+	font-family: $title-font-family;
+	font-weight: normal;
+	line-height: $base-line-height;
+}
+dt {
+	font-weight: bold;
+}
+dd {
+	margin-left: 20px;
+}
+code {
+	padding: 5px;
+	background: rgb(239, 239, 239);
+	color: #666;
+	border: 1px solid #dedede;
+	border-radius: 5px;
+	font-weight: normal;
+}
+.code {
+	padding: 14px;
+	overflow: auto;
+	background: #EFEFEF;
+	border: 1px solid #dedede;
+	border-radius: 5px;
+	font-size: 14px;
+}
