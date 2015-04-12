@@ -1862,6 +1862,10 @@ code {
   .btn-danger:hover {
     background: #ff4d2d; }
 
+.footer {
+  padding: 5px;
+  background: #dedede; }
+
 .clearfix {
   *zoom: 1; }
   .clearfix:before, .clearfix:after {
