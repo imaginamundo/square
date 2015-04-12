@@ -1,4 +1,4 @@
-[![Bourbon](http://imaginamundo.github.io/square/img/square.png)](http://bourbon.io)
+[![Square](http://imaginamundo.github.io/square/img/square.png)](http://imaginamundo.github.io/square/)
 
 ## A grid for boxes
 
