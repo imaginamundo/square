@@ -1,16 +1,17 @@
 /*
-Error: Undefined variable: "$square-background".
-        on line 4 of /Users/dio/Square/sass/module/_square.scss
-        from line 4 of /Users/dio/Square/sass/module/all.scss
+Error: Undefined variable: "$square-box-shadow".
+        on line 4 of /Users/dio/square/sass/module/_square.scss
+        from line 5 of /Users/dio/square/sass/module/all.scss
 
 1: @import "button";
-2: @import "helper";
-3: @import "logo";
-4: @import "square";
+2: @import "footer";
+3: @import "helper";
+4: @import "logo";
+5: @import "square";
 
 Backtrace:
-/Users/dio/Square/sass/module/_square.scss:4
-/Users/dio/Square/sass/module/all.scss:4
+/Users/dio/square/sass/module/_square.scss:4
+/Users/dio/square/sass/module/all.scss:5
 /Library/Ruby/Gems/2.0.0/gems/sass-3.4.11/lib/sass/script/tree/variable.rb:49:in `_perform'
 /Library/Ruby/Gems/2.0.0/gems/sass-3.4.11/lib/sass/script/tree/node.rb:50:in `perform'
 /Library/Ruby/Gems/2.0.0/gems/sass-3.4.11/lib/sass/tree/visitors/perform.rb:394:in `visit_prop'
@@ -75,4 +76,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Undefined variable: \"$square-background\".\A         on line 4 of /Users/dio/Square/sass/module/_square.scss\A         from line 4 of /Users/dio/Square/sass/module/all.scss\A \A 1: @import \"button\";\A 2: @import \"helper\";\A 3: @import \"logo\";\A 4: @import \"square\";"; }
+  content: "Error: Undefined variable: \"$square-box-shadow\".\A         on line 4 of /Users/dio/square/sass/module/_square.scss\A         from line 5 of /Users/dio/square/sass/module/all.scss\A \A 1: @import \"button\";\A 2: @import \"footer\";\A 3: @import \"helper\";\A 4: @import \"logo\";\A 5: @import \"square\";"; }
