@@ -1,5 +1,5 @@
 /*
-Error: Undefined variable: "$square-background".
+Error: Undefined variable: "$square-box-shadow".
         on line 4 of /Users/dio/square/sass/module/_square.scss
         from line 5 of /Users/dio/square/sass/module/all.scss
 
@@ -76,4 +76,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Undefined variable: \"$square-background\".\A         on line 4 of /Users/dio/square/sass/module/_square.scss\A         from line 5 of /Users/dio/square/sass/module/all.scss\A \A 1: @import \"button\";\A 2: @import \"footer\";\A 3: @import \"helper\";\A 4: @import \"logo\";\A 5: @import \"square\";"; }
+  content: "Error: Undefined variable: \"$square-box-shadow\".\A         on line 4 of /Users/dio/square/sass/module/_square.scss\A         from line 5 of /Users/dio/square/sass/module/all.scss\A \A 1: @import \"button\";\A 2: @import \"footer\";\A 3: @import \"helper\";\A 4: @import \"logo\";\A 5: @import \"square\";"; }
