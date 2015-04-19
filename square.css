@@ -15,16 +15,16 @@
 [class^="box-"].half-height:before {
     padding-top: 50%;
 }
-.box-1 {
+.box-25 {
     width: 25%;
 }
-.box-2 {
+.box-50 {
     width: 50%;
 }
-.box-3 {
+.box-75 {
     width: 75%;
 }
-.box-4 {
+.box-100 {
     width: 100%;
 }
 
