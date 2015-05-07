@@ -15,6 +15,12 @@
 [class^="box-"].half-height:before {
     padding-top: 50%;
 }
+[class^="box-"].double-height:before {
+    padding-top: 200%;
+}
+[class^="box-"].triple-height:before {
+    padding-top: 300%;
+}
 .box-25 {
     width: 25%;
 }
