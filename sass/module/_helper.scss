@@ -1,5 +1,6 @@
 // Clearfix
 .clearfix {
+    overflow: auto;
     *zoom: 1;
     &:before,
     &:after {
