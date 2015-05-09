@@ -1867,6 +1867,7 @@ code {
   background: #dedede; }
 
 .clearfix {
+  overflow: auto;
   *zoom: 1; }
   .clearfix:before, .clearfix:after {
     content: " ";
