@@ -1859,7 +1859,7 @@ code {
 .btn-danger {
   background: tomato; }
   .btn-danger:hover {
-    background: #ff4d2d; }
+    background: #ff4d2e; }
 
 .footer {
   padding: 5px;
@@ -1902,7 +1902,9 @@ code {
 
 .logo {
   display: block;
-  margin: 50px auto; }
+  margin: 50px auto;
+  padding: 0 50px;
+  box-sizing: border-box; }
 
 [class^="box-"] {
   position: relative;
