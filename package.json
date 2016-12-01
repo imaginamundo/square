@@ -1,0 +1,27 @@
+{
+  "name": "square",
+  "version": "1.0.0",
+  "description": "Simple square grid framework",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://imaginamundo@github.com/imaginamundo/square.git"
+  },
+  "keywords": [
+    "square",
+    "grid"
+  ],
+  "author": "Diogo Ferreira Fernandes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imaginamundo/square/issues"
+  },
+  "homepage": "https://github.com/imaginamundo/square#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2"
+  }
+}
